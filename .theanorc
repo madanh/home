@@ -1,0 +1,7 @@
+[global]
+device = cpu
+force_device = True
+floatX = float64
+
+
+
